@@ -1,0 +1,8 @@
+{
+  "name": "Melodify",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "7e6a70cb"
+}
